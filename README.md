@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+[Link](https://app.powerbi.com/view?r=eyJrIjoiYjNkNGU1YmYtOTQ4Ny00OWQyLWI0MTctZDBjNTMxZjllMGNlIiwidCI6IjQwZmFjMmViLWYzNzktNGIwOS1iNjU1LTI0M2ZmOGM5NzM5ZCIsImMiOjh9)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
